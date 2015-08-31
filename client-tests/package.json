@@ -1,0 +1,21 @@
+{
+  "name": "web-client-tests",
+  "version": "1.0.0",
+  "description": "A suite of use cases to test client-side functionality on a project.",
+  "main": "nightwatch.js",
+  "author": "Isobar",
+  "license": "",
+  "dependencies": {
+    "async": "~0.2.10",
+    "log4js": "^0.6.21",
+    "mkdirp": "0.5.0",
+    "nightwatch": "0.7.5",
+    "phantomjs": "1.9.13",
+    "phantomjs2": "^2.0.0",
+    "querystring": "0.2.0",
+    "request": "~2.34.0",
+    "rimraf": "2.2.8",
+    "selenium-binaries": "^0.3.6",
+    "underscore": "~1.6.0"
+  }
+}
